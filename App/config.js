@@ -1,7 +1,5 @@
-// إعدادات Supabase العامة للموقعين (Employee + Admin).
-// استخدم Project URL و anon/public key فقط.
-// ممنوع وضع service_role key في ملفات المتصفح.
+// OGEIDA CRM - Supabase Configuration
 window.LF_CONFIG = {
-  url: "PASTE_NEW_SUPABASE_PROJECT_URL",
-  key: "PASTE_NEW_SUPABASE_ANON_PUBLIC_KEY"
+  url: "https://zhopkpbnxhqmevcpmnxj.supabase.co",
+  key: "sb_publishable_aTNNBVEyAvvfgnOKWHXDxg_II0bmTO9"
 };
